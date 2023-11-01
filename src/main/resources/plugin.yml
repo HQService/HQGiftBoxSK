@@ -1,0 +1,8 @@
+name: HQGiftBoxSK
+main: kr.cosine.giftboxsk.HQGiftBoxSK
+api-version: 1.18
+version: 1.0.0
+author: Cosine_A
+depend:
+  - HQFramework
+  - HQGiftBox
